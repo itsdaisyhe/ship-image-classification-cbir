@@ -1,0 +1,5 @@
+pip install numpy pandas scipy tqdm
+pip install pillow scikit-image matplotlib
+pip install torch torchvision scikit-learn
+pip install PyQt5
+pip install opencv-python
